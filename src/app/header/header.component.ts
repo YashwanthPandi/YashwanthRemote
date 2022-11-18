@@ -11,5 +11,7 @@ export class HeaderComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  download(){
+    window.open("https://drive.google.com/file/d/1Ws2wNTsSJHfiPrm7aRQKs6me8yaul4AS/view?usp=sharing", '_blank');
+  }
 }

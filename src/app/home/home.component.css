@@ -1,0 +1,23 @@
+.style{
+  margin-top: 25%;
+  color: white;
+  font-family: 'League Script', cursive
+}
+button {
+  transition: all .5s ease;
+  color: #fff;
+  border: 0.10px solid white;
+  font-family:'Bebas Neue',sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 1;
+  font-size: 17px;
+  background-color : transparent;
+  padding: 10px;
+  outline: none;
+  border-radius: 4px;
+}
+button:hover {
+  color: #001F3F;
+  background-color: #fff;
+}
